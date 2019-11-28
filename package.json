@@ -1,0 +1,25 @@
+{
+  "name": "azartime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiedYasamani/node_hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiedYasamani/node_hello/issues"
+  },
+  "homepage": "https://github.com/SaiedYasamani/node_hello#readme",
+  "dependencies": {
+    "expre": "^0.1.1",
+    "hbs": "^4.0.6"
+  }
+}
