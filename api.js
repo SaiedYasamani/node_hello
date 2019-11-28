@@ -6,4 +6,5 @@ configExpress(api);
 
 api.get('/home',(req, res) => {
     res.render('home');
+    res.end();
 });
